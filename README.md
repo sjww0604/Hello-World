@@ -8,6 +8,3 @@ Hello World!
 
 <br> 
 
-## 과제 진행 간 git log --oneline 첨부 
-<br>
-<img width="494" height="176" alt="image" src="https://github.com/user-attachments/assets/cc6d18f0-671a-4037-bf94-ec3a9e687b53" />
